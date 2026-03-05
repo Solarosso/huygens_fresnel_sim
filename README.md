@@ -40,7 +40,7 @@ The **I(y)** panel on the right shows the instantaneous intensity profile at the
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/huygens-fresnel-sim.git
+git clone https://github.com/Solarosso/huygens-fresnel-sim.git
 cd huygens-fresnel-sim
 
 pip install -r requirements.txt
